@@ -1,6 +1,7 @@
 
 # 🏥 Medloc: Healthcare Shift Matching
-**Location:** Moncton, New Brunswick, 🇨🇦\
+**Location:** Moncton, New Brunswick,:canada:
+
 
 ## 🎯 Mission
 To connect nurses with healthcare employers via real-time availability and automated shift offers.
