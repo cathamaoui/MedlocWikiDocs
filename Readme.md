@@ -20,6 +20,9 @@ Community support is welcome. See the [Contributing Guide](./Contributing.md) fo
 - **Lead Developer:** Catherine
 - **Support:** This AI on Google Search
 
+- 📖 Check out our Project Wiki for full installation and usage guides.
+
+
 ---
 <center>
   <footer>&copy; 2026 Medloc</footer>
