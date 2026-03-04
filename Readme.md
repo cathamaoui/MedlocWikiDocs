@@ -1,15 +1,15 @@
 # 🩺 Medloc - Healthcare Staffing Solutions
 *Efficiently connecting Moncton clinics with qualified nursing staff.*
 
-## 📖 Project Description
+## 📖 Description of project
 Medloc uses automated matching and SMS integration to ensure healthcare shifts are filled in minutes. The goal is to solve the nursing shortage by providing flexible, real-time opportunities.
 
-## 🚀 Quick Start (Installation)
+## 🚀 Installation
 1. **Clone:** `git clone https://github.com`
 2. **Install:** `npm install`
 3. **Run:** `npm start`
 
-## 📱 How it Works (Usage)
+## 📱 Usage (How it Works)
 Clinics post shifts via the dashboard, and nurses receive instant SMS alerts. 
 > ⚖️ **License:** This project is licensed under the MIT License. [View License Details](./Usage.md#license)
 
