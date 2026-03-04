@@ -24,6 +24,9 @@ Community support is welcome. See the [Contributing Guide](./Contributing.md) fo
  
  📖 Check out our Project Wiki for full installation and usage guides.
 
+ ⚖️ License: This project is licensed under the MIT License.
+
+
 
 ---
 <center>
