@@ -2,7 +2,7 @@
 
 This project was developed as part of the VCC curriculum.
 
-*   **Lead Developer:** \[Your Name]
+*   **Lead Developer:** \[Catherine]
 *   **Documentation Support:** Gemini AI
 *   **Special Thanks:** My VCC Instructor for the project guidance.
 
