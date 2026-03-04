@@ -15,3 +15,7 @@ To connect nurses with healthcare employers via real-time availability and autom
 - [x] Project Brief Finalized
 - [ ] MVP Development (6-9 months)
 - [ ] Beta Testing in Moncton Clinics
+---
+<center>
+  <footer>&copy; 2026 Medloc</footer>
+</center>

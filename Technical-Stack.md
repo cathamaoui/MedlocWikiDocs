@@ -18,3 +18,7 @@ This document outlines the core technologies powering the Medloc platform.
 
 ## 💸 Payroll Integration
 - **Stripe Connect:** To automate 24-hour payouts to nurses.
+---
+<center>
+  <footer>&copy; 2026 Medloc</footer>
+</center>
